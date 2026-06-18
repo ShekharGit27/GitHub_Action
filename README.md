@@ -1,2 +1,2 @@
-# GitHub_Action
-using GitHub Action build hello word
+Hello Word GitHub Action 
+Create GitHub Action and run simple Hello Word
